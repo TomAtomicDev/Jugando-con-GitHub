@@ -1,0 +1,7 @@
+Hola usuario!
+
+Este es un texto prueba para la clase #342 de Git y Github.
+
+Nos encontramos en Ururo y son las 15H15.
+
+Saludos,
