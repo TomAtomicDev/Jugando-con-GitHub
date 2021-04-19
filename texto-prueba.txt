@@ -1,7 +1,9 @@
-Hola usuario!
+Hola Carmen Sandiego!
 
-Este es un texto prueba para la clase #542 de Git y Github.
+Puedes llamarme Player.
+Este es un sistema de control de versiones llamado Git.
+Y lo estoy probando en el curso de platzi de Git y Github.
 
-Nos encontramos en Oruro y son las 15H15.
+Nos encontramos en Oruro y son las 15H40.
 
 Saludos,
