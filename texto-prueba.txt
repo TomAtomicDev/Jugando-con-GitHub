@@ -1,9 +1,10 @@
-Hola Carmen Sandiego!
+Hola Player!
 
-Puedes llamarme Player.
+Soy Roja y este es un nuevo branch.
 Este es un sistema de control de versiones llamado Git.
-Y lo estoy probando en el curso de platzi de Git y Github.
+Lo estoy probando en el curso de platzi de Git y Github.
 
 Nos encontramos en Oruro y son las 15H40.
 
 Saludos,
+
