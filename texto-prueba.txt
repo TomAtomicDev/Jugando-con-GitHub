@@ -1,4 +1,8 @@
-Este es el gran conflicto!
+<header> Este es el header.
+    <nav><ul><li>¿Dónde está Carmen Sandiego?</li></ul></nav>
+
+</header>
+
 Hola Player!
 
 Soy Roja y este es un nuevo branch.
